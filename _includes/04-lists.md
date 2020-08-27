@@ -1,0 +1,9 @@
+- Food
+  - Icecream
+  - Mandoo
+- Cats and dogs
+  - Patting
+  - Cuddling
+- Exercising
+  - Bike riding
+  - Hiking
